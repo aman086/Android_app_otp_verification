@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1045138891343",
+    "project_id": "hojabhai-f2cd8",
+    "storage_bucket": "hojabhai-f2cd8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1045138891343:android:439fa8e1a023ecc23bc03a",
+        "android_client_info": {
+          "package_name": "com.example.hojabhai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1045138891343-f2l0la852pjp5bhtcgvv6sg87itbu88v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAz-IneXaiSOum_gGnKwCSdMXJUPVRbfL0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1045138891343-f2l0la852pjp5bhtcgvv6sg87itbu88v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
